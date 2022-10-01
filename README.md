@@ -16,7 +16,7 @@ Backend Engineer (NodeJS)
   <a href="https://www.youtube.com/channel/UC90-T5_2yuuUW_U08jEOZ4Q">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="[your-twitter-URL](https://twitter.com/AfiaAniebiet)">
+  <a href="https://twitter.com/AfiaAniebiet">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
