@@ -11,7 +11,7 @@
 
 ## Profile Trophies
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniebietafia" alt="aniebietafia" /></a> </p>
+<p align="left"> <a href="https://github.com/aniebietafia/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniebietafia" alt="aniebietafia" /></a> </p>
 
 ## Github Stats
 
