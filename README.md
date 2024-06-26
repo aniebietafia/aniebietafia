@@ -34,10 +34,3 @@
 <h3 align="left">Connect with me:</h3>
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aniebietafia_)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniebietafia/)
-<!-- <p align="left">
-<a href="https://twitter.com/aniebietafia_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aniebietafia_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aniebietafia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniebietafia" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aniebietafia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aniebietafia" height="30" width="40" /></a>
-</p> -->
-
-<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniebietafia&" alt="aniebietafia" /></p> -->
