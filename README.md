@@ -27,7 +27,7 @@
 | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aniebietafia&theme=radical&utcOffset=8) |
 
 ## Commit Graph
-| [![Aniebiet Afia github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aniebietafia&bg_color=d4d1ff&color=4c749e&line=9e4c59&point=40413e&area=true&hide_border=true)](https://github.com/aniebietafia/github-readme-activity-graph) |
+[![Aniebiet Afia github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aniebietafia&bg_color=d4d1ff&color=4c749e&line=9e4c59&point=40413e&area=true&hide_border=true)](https://github.com/aniebietafia/github-readme-activity-graph)
 
 
 ## Languages and Tools:
