@@ -21,12 +21,10 @@
 <p align="left"> <a href="https://github.com/aniebietafia/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniebietafia" alt="aniebietafia" /></a> </p>
 
 ## Github Stats
-
-<div>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=aniebietafia&show_icons=true&theme=radical" />
+  
+![Aniebiet Afia Github Stats](https://github-readme-stats.vercel.app/api?username=aniebietafia&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniebietafia&langs_count=8&theme=radical&layout=compact)
-</div>
 
 ## Languages and Tools:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
