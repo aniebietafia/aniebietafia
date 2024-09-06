@@ -24,6 +24,7 @@
   
 | ![Aniebiet Afia Github Stats](https://github-readme-stats.vercel.app/api?username=aniebietafia&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniebietafia&langs_count=8&theme=radical&layout=compact) |
 | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Aniebiet Afia github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aniebietafia&bg_color=d4d1ff&color=4c749e&line=9e4c59&point=40413e&area=true&hide_border=true)](https://github.com/aniebietafia/github-readme-activity-graph) |
 
 
 ## Languages and Tools:
