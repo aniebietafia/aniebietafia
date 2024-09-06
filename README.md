@@ -25,7 +25,7 @@
 <div>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=aniebietafia&show_icons=true&theme=radical" />
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniebietafia&layout=compact" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniebietafia&langs_count=8&theme=radical&layout=compact)
 </div>
 
 ## Languages and Tools:
