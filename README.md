@@ -22,9 +22,9 @@
 
 ## Github Stats
   
-![Aniebiet Afia Github Stats](https://github-readme-stats.vercel.app/api?username=aniebietafia&show_icons=true&theme=radical)
+| ![Aniebiet Afia Github Stats](https://github-readme-stats.vercel.app/api?username=aniebietafia&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniebietafia&langs_count=8&theme=radical&layout=compact) |
+| ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniebietafia&langs_count=8&theme=radical&layout=compact)
 
 ## Languages and Tools:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
