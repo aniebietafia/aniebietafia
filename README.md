@@ -1,4 +1,5 @@
-# Hi there, I'm Aniebiet! 👋
+# Hey, I'm Aniebiet! A Software engineer 👋
+## Pleased to meet you. Let's connect 🚀
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniebietafia&label=Profile%20views&color=0e75b6&style=flat" alt="aniebietafia" /> </p>
 
