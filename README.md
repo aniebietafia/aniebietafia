@@ -2,9 +2,10 @@
 ## Pleased to meet you. Let's connect 🚀
 
 ![Backend Developer](https://img.shields.io/badge/Backend%20Developer-007acc?style=for-the-badge&logo=code&logoColor=white)
+[<img src="https://img.shields.io/badge/Backend-Developer-blue.svg">](https://github.com/aniebietafia)
 ![Profile Views](https://img.shields.io/badge/Profile%20views-0e75b6?style=for-the-badge&logo=github&logoColor=white)
 
-<div align="center">
+<div>
 
   
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
