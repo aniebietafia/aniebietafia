@@ -1,7 +1,8 @@
 # Hey, I'm Aniebiet!👋
 ## Pleased to meet you. Let's connect 🚀
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniebietafia&label=Profile%20views&color=0e75b6&style=flat" alt="aniebietafia" /> </p>
+![Backend Developer](https://img.shields.io/badge/Backend%20Developer-007acc?style=for-the-badge&logo=code&logoColor=white)
+![Profile Views](https://img.shields.io/badge/Profile%20views-0e75b6?style=for-the-badge&logo=github&logoColor=white)
 
 <div align="center">
 
