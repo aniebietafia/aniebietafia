@@ -71,6 +71,13 @@
 ## GitHub Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aniebietafia&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/aniebietafia/count.svg">
+
+Counting of visitors to this page in this section started from May 1, 2022
+
+<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
 ## Connect with me:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aniebietafia_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aniebietafia)
