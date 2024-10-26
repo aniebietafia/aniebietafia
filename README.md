@@ -71,6 +71,7 @@
 ## GitHub Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aniebietafia&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
+## Profile Counter
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/aniebietafia/count.svg">
 
