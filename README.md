@@ -1,6 +1,22 @@
 # Hey, I'm Aniebiet!👋
 ## I'm a Software engineer! Let's connect 🚀
 
+### 👨‍💻 About Me
+
+I'm a passionate backend developer specializing in building scalable, high-performance applications. With expertise across multiple technology stacks, I craft robust server-side solutions using **Java/Spring Boot**, **Python (Django & FastAPI)**, and **Node.js/NestJS/TypeScript**. My experience spans from architecting RESTful APIs and microservices to implementing real-time communication systems and integrating cloud-based solutions.
+
+I thrive on solving complex problems, optimizing system performance, and delivering clean, maintainable code. Whether it's designing database schemas, implementing authentication systems, or deploying containerized applications, I bring a comprehensive understanding of the full backend development lifecycle.
+
+### 🚀 What I'm Currently Working On
+
+- 🔨 Building production-ready APIs with **Spring Boot** and **FastAPI**
+- 🛠️ Implementing microservices architecture and event-driven systems
+- 📦 Working with **Docker**, **Kubernetes**, and cloud platforms (AWS, DigitalOcean)
+- 💾 Optimizing database performance with **PostgreSQL**, **MongoDB**, and **Redis**
+- 🔐 Developing secure authentication and authorization workflows
+- 📚 Continuously learning and exploring new technologies in the backend ecosystem
+
+
 [![Backend Developer](https://img.shields.io/badge/Backend%20Developer-green?style=for-the-badge)](https://github.com/aniebietafia)
 [![Profile Views](https://komarev.com/ghpvc/?username=aniebietafia&style=for-the-badge&color=blue)](https://github.com/aniebietafia)
 
@@ -104,6 +120,6 @@ Counting of visitors to this page in this section started from October 26, 2024
 <a href="https://info.flagcounter.com/lr5L"><img src="https://s01.flagcounter.com/count2/lr5L/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 ## Connect with me:
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aniebietafia_)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aniebiet_afia)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aniebietafia)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aniebietafia)
