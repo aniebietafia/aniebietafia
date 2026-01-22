@@ -1,6 +1,11 @@
 # Hey, I'm Aniebiet!👋
 ## I'm a Software engineer! Let's connect 🚀
 
+
+[![Backend Developer](https://img.shields.io/badge/Backend%20Developer-green?style=for-the-badge)](https://github.com/aniebietafia)
+[![Profile Views](https://komarev.com/ghpvc/?username=aniebietafia&style=for-the-badge&color=blue)](https://github.com/aniebietafia)
+
+
 ### 👨‍💻 About Me
 
 I'm a passionate backend developer specializing in building scalable, high-performance applications. With expertise across multiple technology stacks, I craft robust server-side solutions using **Java/Spring Boot**, **Python (Django & FastAPI)**, and **Node.js/NestJS/TypeScript**. My experience spans from architecting RESTful APIs and microservices to implementing real-time communication systems and integrating cloud-based solutions.
@@ -15,10 +20,6 @@ I thrive on solving complex problems, optimizing system performance, and deliver
 - 💾 Optimizing database performance with **PostgreSQL**, **MongoDB**, and **Redis**
 - 🔐 Developing secure authentication and authorization workflows
 - 📚 Continuously learning and exploring new technologies in the backend ecosystem
-
-
-[![Backend Developer](https://img.shields.io/badge/Backend%20Developer-green?style=for-the-badge)](https://github.com/aniebietafia)
-[![Profile Views](https://komarev.com/ghpvc/?username=aniebietafia&style=for-the-badge&color=blue)](https://github.com/aniebietafia)
 
 <div>
 
@@ -75,11 +76,11 @@ I thrive on solving complex problems, optimizing system performance, and deliver
 
 ### </> Frontend Tools
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-1E9AD9?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![Tailwindcss](https://img.shields.io/badge/Tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### ☁ Cloud and API Services
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -90,11 +91,20 @@ I thrive on solving complex problems, optimizing system performance, and deliver
 
 ### 💡 Testing Tools
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-C5D9C8?style=for-the-badge)
+![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Unittest](https://img.shields.io/badge/Unittest-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### ♾️ CI/CD
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### 📝 Documentation
+### � DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### �📝 Documentation
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 
 ### 🛠 Project Management and Collaboration Tools
