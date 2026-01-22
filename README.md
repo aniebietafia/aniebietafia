@@ -1,5 +1,5 @@
 # Hey, I'm Aniebiet!👋
-## I'm a Backend Developer! Let's connect 🚀
+## I'm a Software engineer! Let's connect 🚀
 
 [![Backend Developer](https://img.shields.io/badge/Backend%20Developer-green?style=for-the-badge)](https://github.com/aniebietafia)
 [![Profile Views](https://komarev.com/ghpvc/?username=aniebietafia&style=for-the-badge&color=blue)](https://github.com/aniebietafia)
