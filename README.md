@@ -6,6 +6,20 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=aniebietafia&style=for-the-badge&color=blue)](https://github.com/aniebietafia)
 
 
+<div>
+
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+  
+</div>
+
+
 ### 👨‍💻 About Me
 
 I'm a passionate backend developer specializing in building scalable, high-performance applications. With expertise across multiple technology stacks, I craft robust server-side solutions using **Java/Spring Boot**, **Python (Django & FastAPI)**, and **Node.js/NestJS/TypeScript**. My experience spans from architecting RESTful APIs and microservices to implementing real-time communication systems and integrating cloud-based solutions.
@@ -20,19 +34,6 @@ I thrive on solving complex problems, optimizing system performance, and deliver
 - 💾 Optimizing database performance with **PostgreSQL**, **MongoDB**, and **Redis**
 - 🔐 Developing secure authentication and authorization workflows
 - 📚 Continuously learning and exploring new technologies in the backend ecosystem
-
-<div>
-
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-  
-</div>
 
 ## Profile Trophies
 
