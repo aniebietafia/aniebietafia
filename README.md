@@ -124,10 +124,62 @@ I thrive on solving complex problems, optimizing system performance, and deliver
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.35%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.30%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                993 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+🌆 Daytime                2652 commits        ████████████░░░░░░░░░░░░░   46.75 % 
+🌃 Evening                1884 commits        ████████░░░░░░░░░░░░░░░░░   33.21 % 
+🌙 Night                  144 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   1199 commits        █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
+Tuesday                  857 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Wednesday                833 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Thursday                 728 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Friday                   541 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+Saturday                 795 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Sunday                   720 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+```
 
 
- Last Updated on 09/03/2026 23:25:13 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Lagos
+
+💬 Programming Languages: 
+Markdown                 5 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   27.54 % 
+Python                   4 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
+TypeScript               2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+Java                     1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+Bash                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+
+🔥 Editors: 
+WebStorm                 6 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   36.21 % 
+PyCharm                  6 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   35.50 % 
+IntelliJ IDEA            4 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
+CLion                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Vim                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+
+🐱‍💻 Projects: 
+betaconnect-api          6 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   35.50 % 
+unraveldocs-frontend     5 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.90 % 
+unraveldocs-api          4 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
+betaconnect-admin-dashboa1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+c-programming-projects   35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+
+💻 Operating System: 
+Windows                  18 hrs 11 mins      █████████████████████████   99.86 % 
+Linux                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+```
+
+
+ Last Updated on 09/03/2026 23:27:41 UTC
 <!--END_SECTION:waka-->
 
 ## Profile Counter
