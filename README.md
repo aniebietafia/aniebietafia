@@ -120,7 +120,7 @@ I thrive on solving complex problems, optimizing system performance, and deliver
 
 ## 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C500%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C500%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -177,7 +177,7 @@ Windows                  13 hrs 57 mins      ███████████�
 ```
 
 
- Last Updated on 16/03/2026 12:31:37 UTC
+ Last Updated on 16/03/2026 12:42:31 UTC
 <!--END_SECTION:waka-->
 
 ## Profile Counter
