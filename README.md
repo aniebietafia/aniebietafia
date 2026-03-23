@@ -120,7 +120,7 @@ I thrive on solving complex problems, optimizing system performance, and deliver
 
 ## 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C516%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C516%20hrs%201%20min-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -178,7 +178,7 @@ WSL                      2 hrs 11 mins       ███░░░░░░░░�
 ```
 
 
- Last Updated on 23/03/2026 23:07:17 UTC
+ Last Updated on 23/03/2026 23:16:26 UTC
 <!--END_SECTION:waka-->
 
 ## Profile Counter
