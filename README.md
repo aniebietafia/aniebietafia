@@ -38,9 +38,9 @@ I thrive on solving complex problems, optimizing system performance, and deliver
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C406%20hrs%2050%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.56%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.05%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤**
 
