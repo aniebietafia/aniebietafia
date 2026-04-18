@@ -39,8 +39,55 @@ I thrive on solving complex problems, optimizing system performance, and deliver
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.42%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
 
- Last Updated on 18/04/2026 00:51:32 UTC
+```text
+🌞 Morning                5947 commits        █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+🌆 Daytime                16037 commits       ████████████░░░░░░░░░░░░░   49.23 % 
+🌃 Evening                8888 commits        ███████░░░░░░░░░░░░░░░░░░   27.29 % 
+🌙 Night                  1701 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   5359 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+Tuesday                  4653 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Wednesday                5467 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+Thursday                 4520 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+Friday                   4277 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Saturday                 4963 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Sunday                   3334 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Lagos
+
+💬 Programming Languages: 
+Python                   5 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
+Markdown                 5 hrs               ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
+TypeScript               4 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+HTML                     1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+CSS                      1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+
+🔥 Editors: 
+WebStorm                 10 hrs 56 mins      ██████████████░░░░░░░░░░░   54.38 % 
+PyCharm                  9 hrs 10 mins       ███████████░░░░░░░░░░░░░░   45.62 % 
+
+🐱‍💻 Projects: 
+fluent-meet-frontend     10 hrs 56 mins      ██████████████░░░░░░░░░░░   54.38 % 
+betaconnect-api          6 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   33.11 % 
+FluentMeet               1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+betaconnect-portal-api   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+
+💻 Operating System: 
+Windows                  20 hrs 6 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 18/04/2026 00:58:12 UTC
 <!--END_SECTION:waka-->
 
 ## Profile Trophies
