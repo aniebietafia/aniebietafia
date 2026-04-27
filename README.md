@@ -35,59 +35,14 @@ I thrive on solving complex problems, optimizing system performance, and deliver
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C603%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C607%20hrs%2026%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.76%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                5998 commits        █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
-🌆 Daytime                16160 commits       ████████████░░░░░░░░░░░░░   49.23 % 
-🌃 Evening                8952 commits        ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-🌙 Night                  1717 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   5379 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-Tuesday                  4656 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Wednesday                5489 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-Thursday                 4559 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Friday                   4319 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Saturday                 5001 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Sunday                   3424 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.81%20million%20lines%20of%20code-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Lagos
-
-💬 Programming Languages: 
-Markdown                 7 hrs 51 mins       ████████████░░░░░░░░░░░░░   47.48 % 
-Python                   2 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
-Bash                     2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-TypeScript               2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-
-🔥 Editors: 
-PyCharm                  11 hrs 22 mins      █████████████████░░░░░░░░   68.79 % 
-WebStorm                 5 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   31.21 % 
-
-🐱‍💻 Projects: 
-betaconnect-portal-api   11 hrs 22 mins      █████████████████░░░░░░░░   68.79 % 
-betaconnect-portal       5 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   31.21 % 
-
-💻 Operating System: 
-Windows                  16 hrs 32 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 27/04/2026 23:12:04 UTC
+ Last Updated on 27/04/2026 23:18:17 UTC
 <!--END_SECTION:waka-->
 
 ## Profile Trophies
