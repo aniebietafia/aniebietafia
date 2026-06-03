@@ -39,10 +39,61 @@ I thrive on solving complex problems, optimizing system performance, and deliver
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.26%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.86%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                914 commits         █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
+🌆 Daytime                2432 commits        █████████████░░░░░░░░░░░░   51.42 % 
+🌃 Evening                1162 commits        ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
+🌙 Night                  222 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   861 commits         █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+Tuesday                  706 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Wednesday                618 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+Thursday                 590 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Friday                   418 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Saturday                 555 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+Sunday                   982 commits         █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+```
 
 
- Last Updated on 03/06/2026 23:19:39 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Lagos
+
+💬 Programming Languages: 
+TypeScript               2 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   34.98 % 
+Markdown                 1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
+Python                   1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Java                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+
+🔥 Editors: 
+WebStorm                 5 hrs 4 mins        ████████████████░░░░░░░░░   62.36 % 
+PyCharm                  2 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   26.14 % 
+IntelliJ IDEA            47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+Vim                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+
+🐱‍💻 Projects: 
+fluent-meet-frontend     2 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   32.43 % 
+betaconnect-portal       2 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   28.80 % 
+FluentMeet               1 hr 58 mins        ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+data-structures-and-algor47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+betaconnect-portal-api   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+
+💻 Operating System: 
+Windows                  8 hrs               █████████████████████████   98.31 % 
+WSL                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+```
+
+
+ Last Updated on 03/06/2026 23:21:30 UTC
 <!--END_SECTION:waka-->
 
 ## Profile Trophies
