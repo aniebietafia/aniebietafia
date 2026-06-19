@@ -41,8 +41,58 @@ I thrive on solving complex problems, optimizing system performance, and deliver
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.78%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
 
- Last Updated on 19/06/2026 23:23:34 UTC
+```text
+🌞 Morning                7114 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+🌆 Daytime                19573 commits       ████████████░░░░░░░░░░░░░   47.74 % 
+🌃 Evening                11143 commits       ███████░░░░░░░░░░░░░░░░░░   27.18 % 
+🌙 Night                  3171 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   6509 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+Tuesday                  5791 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Wednesday                6278 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+Thursday                 5757 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Friday                   5838 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Saturday                 6339 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+Sunday                   4489 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Lagos
+
+💬 Programming Languages: 
+Python                   1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
+TypeScript               40 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+Vue                      34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+Java Properties          27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+SQL                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+
+🔥 Editors: 
+PyCharm                  1 hr 19 mins        ████████░░░░░░░░░░░░░░░░░   30.84 % 
+IntelliJ IDEA            1 hr                ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
+WebStorm                 59 mins             ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
+VS Code                  57 mins             ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
+
+🐱‍💻 Projects: 
+FluentMeet               1 hr 16 mins        ███████░░░░░░░░░░░░░░░░░░   29.65 % 
+fluent-meet-frontend     36 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+aniebietafia             34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+unraveldocs-api          34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+xtraction-api            25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+
+💻 Operating System: 
+Windows                  4 hrs 16 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 19/06/2026 23:32:15 UTC
 <!--END_SECTION:waka-->
 
 ## Profile Trophies
