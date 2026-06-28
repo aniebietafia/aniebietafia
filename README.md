@@ -39,61 +39,10 @@ I thrive on solving complex problems, optimizing system performance, and deliver
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.11%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                4358 commits        █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
-🌆 Daytime                10136 commits       █████████████░░░░░░░░░░░░   50.01 % 
-🌃 Evening                5529 commits        ███████░░░░░░░░░░░░░░░░░░   27.28 % 
-🌙 Night                  246 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   3156 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Tuesday                  3234 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Wednesday                3052 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Thursday                 3079 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Friday                   2555 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Saturday                 2651 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-Sunday                   2542 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.13%20million%20lines%20of%20code-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Lagos
-
-💬 Programming Languages: 
-Python                   2 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
-Markdown                 2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
-Java                     1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-XML                      1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-Java Properties          48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-
-🔥 Editors: 
-Antigravity Desktop      4 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   41.08 % 
-IntelliJ IDEA            3 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   33.75 % 
-PyCharm                  2 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
-Vim                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-
-🐱‍💻 Projects: 
-xtraction-api            5 hrs 34 mins       █████████████░░░░░░░░░░░░   53.91 % 
-spoken-api               4 hrs 22 mins       ███████████░░░░░░░░░░░░░░   42.36 % 
-dsa-java                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-FluentMeet               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-
-💻 Operating System: 
-Windows                  9 hrs 58 mins       ████████████████████████░   96.48 % 
-WSL                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-```
-
-
- Last Updated on 27/06/2026 22:07:37 UTC
+ Last Updated on 28/06/2026 03:03:43 UTC
 <!--END_SECTION:waka-->
 
 ## Profile Trophies
