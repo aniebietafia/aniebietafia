@@ -134,7 +134,7 @@ I am a versatile **Software & Backend Engineer**, **Desktop & Mobile Developer**
   <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C764%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C764%20hrs%2024%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -192,7 +192,7 @@ Windows                  15 hrs 52 mins      ███████████�
 ```
 
 
- Last Updated on 23/07/2026 14:00:01 UTC
+ Last Updated on 23/07/2026 14:15:14 UTC
 <!--END_SECTION:waka-->
 
 </details>
