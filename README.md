@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/aniebietafia">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vcenter=true&width=600&lines=Software+%26+Backend+Engineer;Building+Scalable+Backend+Systems;Spring+Boot+%7C+FastAPI+%7C+NestJS;Microservices+%26+Distributed+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vcenter=true&width=650&lines=Software+%26+Backend+Engineer;Desktop+Apps+with+Rust;Mobile+Apps+with+React+Native;Cloud+%26+DevOps+Infrastructure;Spring+Boot+%7C+FastAPI+%7C+NestJS" alt="Typing SVG" />
   </a>
 </p>
 
@@ -27,13 +27,14 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate **Software Engineer** specializing in building robust, high-throughput, and scalable backend applications. My expertise spans across **Java/Spring Boot**, **Python (FastAPI & Django)**, and **TypeScript/Node.js (NestJS)**.
+I am a versatile **Software & Backend Engineer**, **Desktop & Mobile Developer**, and **DevOps Enthusiast**. I specialize in constructing high-throughput backend services, cross-platform applications, and automated cloud infrastructure.
 
-- 🔭 **Focus**: Architecting RESTful APIs, Microservices, and Event-Driven Systems.
-- ⚡ **Tech Stack**: Spring Boot, FastAPI, NestJS, PostgreSQL, Redis, Docker, Kubernetes, AWS.
-- 🛠️ **Engineering Practices**: Clean Code, Microservices Patterns, CI/CD Automation, Test-Driven Development.
-- 🌱 **Learning**: Advanced Distributed Systems Architecture & Rust.
-- 💬 **Ask me about**: Backend Architecture, System Design, Database Optimization, and API Performance.
+- 🔭 **Backend Architecture**: Designing scalable microservices and RESTful APIs using **Java/Spring Boot**, **Python (FastAPI & Django)**, and **TypeScript (NestJS)**.
+- 🦀 **Desktop Development**: Building fast, memory-safe desktop applications using **Rust**.
+- 📱 **Mobile Development**: Crafting cross-platform mobile apps with **React Native**.
+- ☁️ **DevOps & Infrastructure**: Automating deployments with **Docker**, **Kubernetes**, **Terraform**, **Ansible**, and **GitHub Actions**.
+- ⚡ **Database & Storage**: Optimizing relational and NoSQL databases using **PostgreSQL**, **MongoDB**, and **Redis**.
+- 💬 **Ask me about**: System Design, Microservices, Rust, React Native, and DevOps pipelines.
 
 ---
 
@@ -41,7 +42,7 @@ I am a passionate **Software Engineer** specializing in building robust, high-th
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,django,ts,js,nodejs,nestjs,postgres,mongodb,redis,docker,kubernetes,aws,git,github,linux,nginx&perline=10" alt="My Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,django,rust,react,ts,js,nodejs,nestjs,postgres,mongodb,redis,docker,kubernetes,terraform,ansible,aws,githubactions,linux,nginx&perline=11" alt="My Tech Stack" />
   </a>
 </p>
 
@@ -51,10 +52,11 @@ I am a passionate **Software Engineer** specializing in building robust, high-th
 
   <table>
     <tr>
-      <td width="22%"><b>Languages</b></td>
+      <td width="24%"><b>Languages</b></td>
       <td>
         <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
@@ -62,7 +64,7 @@ I am a passionate **Software Engineer** specializing in building robust, high-th
       </td>
     </tr>
     <tr>
-      <td width="22%"><b>Backend & Frameworks</b></td>
+      <td width="24%"><b>Backend & Frameworks</b></td>
       <td>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -72,7 +74,28 @@ I am a passionate **Software Engineer** specializing in building robust, high-th
       </td>
     </tr>
     <tr>
-      <td width="22%"><b>Database & Caching</b></td>
+      <td width="24%"><b>Desktop & Mobile</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Rust_Desktop-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust Desktop" />
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
+      </td>
+    </tr>
+    <tr>
+      <td width="24%"><b>DevOps & Infrastructure</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+        <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+        <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
+        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+      </td>
+    </tr>
+    <tr>
+      <td width="24%"><b>Database & Caching</b></td>
       <td>
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -82,17 +105,7 @@ I am a passionate **Software Engineer** specializing in building robust, high-th
       </td>
     </tr>
     <tr>
-      <td width="22%"><b>Cloud & DevOps</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
-        <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
-      </td>
-    </tr>
-    <tr>
-      <td width="22%"><b>Testing & Tools</b></td>
+      <td width="24%"><b>Testing & Tools</b></td>
       <td>
         <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
         <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit" />
@@ -106,29 +119,10 @@ I am a passionate **Software Engineer** specializing in building robust, high-th
 
 ---
 
-### 🏆 Profile Trophies
-
-<p align="center">
-  <a href="https://github.com/aniebietafia">
-    <img src="https://github-profile-trophy.vercel.app/?username=aniebietafia&theme=tokyonight&no-frame=true&no-background=true&margin-w=15" alt="Trophies" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Analytics & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniebietafia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniebietafia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
-</p>
+### 📊 GitHub Activity & Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniebietafia&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniebietafia&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
