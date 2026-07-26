@@ -1,5 +1,4 @@
-<h1 align="center">Hallo, Ich bin aniebiet! 👋</h1>
-<h2 align="center">Schön, dich kennenzulernen</h2>
+<h1 align="center">Hallo, Ich bin aniebiet! Schön, dich kennenzulernen</h1>
 
 <p align="center">
   <a href="https://github.com/aniebietafia">
