@@ -1,4 +1,5 @@
-<h1 align="center">Hi there, I'm Aniebiet Afia! 👋</h1>
+<h1 align="center">Hallo, Ich bin aniebiet! 👋</h1>
+<h2 align="center">Schön, dich kennenzulernen</h2>
 
 <p align="center">
   <a href="https://github.com/aniebietafia">
@@ -27,7 +28,7 @@
 
 ### 👨‍💻 About Me
 
-I am a versatile **Software & Backend Engineer**, **Desktop & Mobile Developer**, and **DevOps Enthusiast**. I specialize in constructing high-throughput backend services, cross-platform applications, and automated cloud infrastructure.
+I am an experienced **Software & Backend Engineer**, **Desktop & Mobile Developer**, and **DevOps Engineer**. I specialize in building high-throughput backend services, cross-platform applications, and automated cloud infrastructure.
 
 - 🔭 **Backend Architecture**: Designing scalable microservices and RESTful APIs using **Java/Spring Boot**, **Python (FastAPI & Django)**, and **TypeScript (NestJS)**.
 - 🦀 **Desktop Development**: Building fast, memory-safe desktop applications using **Rust**.
@@ -135,11 +136,8 @@ I am a versatile **Software & Backend Engineer**, **Desktop & Mobile Developer**
 
 <!--START_SECTION:waka-->
 
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C763%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C763%20hrs%2010%20mins-blue?style=flat) ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat) ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.27%20million%20lines%20of%20code-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.27%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤**
 
