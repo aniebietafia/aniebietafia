@@ -138,26 +138,26 @@ I am a versatile **Software & Backend Engineer**, **Desktop & Mobile Developer**
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.36%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                7088 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-🌆 Daytime                21859 commits       ████████████░░░░░░░░░░░░░   48.83 % 
-🌃 Evening                12180 commits       ███████░░░░░░░░░░░░░░░░░░   27.21 % 
-🌙 Night                  3643 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   7053 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-Tuesday                  6239 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Wednesday                7273 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Thursday                 6156 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-Friday                   6264 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Saturday                 7255 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-Sunday                   4530 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
@@ -192,7 +192,7 @@ Windows                  12 hrs 13 mins      ███████████�
 ```
 
 
- Last Updated on 26/07/2026 09:47:15 UTC
+ Last Updated on 26/07/2026 09:47:40 UTC
 <!--END_SECTION:waka-->
 
 </details>
