@@ -137,7 +137,9 @@ I am an experienced **Software & Backend Engineer**, **Desktop & Mobile Develope
   <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C801%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C773%20hrs%2037%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-85%20hrs%2048%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -194,8 +196,31 @@ spoken-ui                0 secs              ░░░░░░░░░░░�
 Windows                  11 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 27/07/2026 15:24:55 UTC
+```text
+⏱ AI Coding Time: 6 hrs 35 mins (58.35%)
+
+✍️ 287 lines written by AI, 912 lines written by hand (23.94% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 10 AI Sessions, 24 AI Prompts
+
+Gemini                   399 lines           ██████████████████████░░░   89.06 % 
+Antigravity-Desktop      49 lines            ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 23.94% of written lines came from AI
+📄 Detailed Prompter — average 924 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 81.96% of changed lines were hand-edited
+```
+
+
+ Last Updated on 27/07/2026 15:39:25 UTC
 <!--END_SECTION:waka-->
 
 </details>
