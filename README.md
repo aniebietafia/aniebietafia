@@ -7,6 +7,9 @@
 </p>
 
 <p align="center">
+  <a href="https://aniebietafia.brintsgroup.xyz">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://linkedin.com/in/aniebietafia">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
