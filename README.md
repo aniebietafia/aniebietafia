@@ -137,62 +137,65 @@ I am an experienced **Software & Backend Engineer**, **Desktop & Mobile Develope
   <br/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C800%20hrs%209%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat) ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C763%20hrs%2010%20mins-blue?style=flat) ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.27%20million%20lines%20of%20code-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-**I'm an Early 🐤**
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.10%20million%20lines%20of%20code-blue?style=flat)
 
-```text
-🌞 Morning                8296 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.35 %
-🌆 Daytime                24114 commits       ████████████░░░░░░░░░░░░░   47.52 %
-🌃 Evening                13668 commits       ███████░░░░░░░░░░░░░░░░░░   26.94 %
-🌙 Night                  4664 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 %
-```
-
-📅 **I'm Most Productive on Monday**
+**I'm an Early 🐤** 
 
 ```text
-Monday                   8170 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.10 %
-Tuesday                  6825 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 %
-Wednesday                7746 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.27 %
-Thursday                 7063 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.92 %
-Friday                   7509 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.80 %
-Saturday                 8114 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.99 %
-Sunday                   5315 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.47 %
+🌞 Morning                8396 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+🌆 Daytime                24503 commits       ████████████░░░░░░░░░░░░░   47.38 % 
+🌃 Evening                13923 commits       ███████░░░░░░░░░░░░░░░░░░   26.92 % 
+🌙 Night                  4889 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   8285 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+Tuesday                  6933 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Wednesday                7897 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Thursday                 7222 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Friday                   7678 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Saturday                 8319 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Sunday                   5377 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
 ```
 
-📊 **This Week I Spent My Time On**
+
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Africa/Lagos
 
-💬 Programming Languages:
-Python                   10 hrs 54 mins      █████████████████░░░░░░░░   68.78 %
-Markdown                 1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 %
-TypeScript               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
-Rust                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
-Bash                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+💬 Programming Languages: 
+Python                   8 hrs 34 mins       ███████████████████░░░░░░   75.97 % 
+Markdown                 1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Vue                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Java                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+TypeScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 
-🔥 Editors:
-PyCharm                  9 hrs 7 mins        ██████████████░░░░░░░░░░░   57.52 %
-Antigravity Desktop      4 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   28.44 %
-VS Code                  1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
-WebStorm                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
-IntelliJ IDEA            21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+🔥 Editors: 
+PyCharm                  8 hrs 9 mins        ██████████████████░░░░░░░   72.27 % 
+VS Code                  1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Antigravity Desktop      1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+IntelliJ IDEA            21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+WebStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
-🐱‍💻 Projects:
-spoken-api               12 hrs 51 mins      ████████████████████░░░░░   80.98 %
-spoken-ui                1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
-spokenai-desktop         51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
-Unknown Project          25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-data-structures-and-algor21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+🐱‍💻 Projects: 
+spoken-api               8 hrs 51 mins       ████████████████████░░░░░   78.40 % 
+aniebietafia             1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Unknown Project          32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+data-structures-and-algor21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+spoken-ui                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
-💻 Operating System:
-Windows                  15 hrs 52 mins      █████████████████████████   100.00 %
+💻 Operating System: 
+Windows                  11 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
-Last Updated on 23/07/2026 12:30:22 UTC
 
+ Last Updated on 27/07/2026 14:11:22 UTC
 <!--END_SECTION:waka-->
 
 </details>
