@@ -172,55 +172,55 @@ Sunday                   5489 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Python                   7 hrs 26 mins       ██████████████░░░░░░░░░░░   54.36 % 
-Markdown                 2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-Bash                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-TypeScript               57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-Vue                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Python                   6 hrs 32 mins       ███████████████░░░░░░░░░░   58.82 % 
+Markdown                 1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+TypeScript               57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Bash                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 
 🔥 Editors: 
-PyCharm                  8 hrs 3 mins        ███████████████░░░░░░░░░░   58.76 % 
-Antigravity Desktop      2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-VS Code                  1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-WebStorm                 1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-Vim                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+PyCharm                  7 hrs 2 mins        ████████████████░░░░░░░░░   63.23 % 
+Antigravity Desktop      1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+WebStorm                 1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Vim                      45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 🐱‍💻 Projects: 
-spoken-api               9 hrs 9 mins        █████████████████░░░░░░░░   66.86 % 
-spoken-ui                1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-aniebietafia             1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-Unknown Project          45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-spokenai-docs-raw        41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+spoken-api               8 hrs               ██████████████████░░░░░░░   71.94 % 
+spoken-ui                1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Unknown Project          45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+spokenai-docs-raw        41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+xtraction-api            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 💻 Operating System: 
-Windows                  12 hrs 57 mins      ████████████████████████░   94.52 % 
-WSL                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Windows                  10 hrs 22 mins      ███████████████████████░░   93.26 % 
+WSL                      45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 18 mins (53.29%)
+⏱ AI Coding Time: 5 hrs 12 mins (46.83%)
 
-✍️ 859 lines written by AI, 1,398 lines written by hand (38.06% AI-written)
+✍️ 597 lines written by AI, 1,300 lines written by hand (31.47% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 40 AI Prompts
+🧠 6 AI Sessions, 33 AI Prompts
 
-Gemini                   1,017 lines         █████████████████████████   100.00 % 
+Gemini                   753 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 38.06% of written lines came from AI
-📄 Detailed Prompter — average 504 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 58.71% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 31.47% of written lines came from AI
+📝 Concise Prompter — average 429 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 63.9% of changed lines were hand-edited
 ```
 
 
- Last Updated on 04/08/2026 02:14:05 UTC
+ Last Updated on 04/08/2026 02:25:08 UTC
 <!--END_SECTION:waka-->
 
 </details>
