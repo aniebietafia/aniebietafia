@@ -137,91 +137,12 @@ I am an experienced **Software & Backend Engineer**, **Desktop & Mobile Develope
   <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C789%20hrs%2038%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-93%20hrs%2055%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.41%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                8438 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-🌆 Daytime                24745 commits       ████████████░░░░░░░░░░░░░   47.28 % 
-🌃 Evening                14114 commits       ███████░░░░░░░░░░░░░░░░░░   26.97 % 
-🌙 Night                  5037 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   8331 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-Tuesday                  7001 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Wednesday                7972 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Thursday                 7360 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Friday                   7789 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Saturday                 8458 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Sunday                   5423 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.42%20million%20lines%20of%20code-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Lagos
-
-💬 Programming Languages: 
-Python                   4 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   41.45 % 
-Markdown                 2 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   27.18 % 
-Bash                     1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-TypeScript               54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-
-🔥 Editors: 
-PyCharm                  5 hrs 4 mins        ████████████░░░░░░░░░░░░░   47.86 % 
-VS Code                  1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-Antigravity Desktop      1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-WebStorm                 1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-Vim                      45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-
-🐱‍💻 Projects: 
-spoken-api               6 hrs 46 mins       ████████████████░░░░░░░░░   63.96 % 
-spoken-ui                1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-Unknown Project          1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-spokenai-docs-raw        41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-spokenai-desktop         12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-
-💻 Operating System: 
-Windows                  8 hrs 37 mins       ████████████████████░░░░░   81.35 % 
-Linux                    1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-WSL                      45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 5 hrs 7 mins (48.31%)
-
-✍️ 425 lines written by AI, 1,197 lines written by hand (26.2% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 22 AI Prompts
-
-Gemini                   499 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 26.2% of written lines came from AI
-📝 Concise Prompter — average 438 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 70.92% of changed lines were hand-edited
-```
-
-
- Last Updated on 06/08/2026 15:53:10 UTC
+ Last Updated on 07/08/2026 02:39:32 UTC
 <!--END_SECTION:waka-->
 
 </details>
