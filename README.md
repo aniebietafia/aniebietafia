@@ -137,7 +137,7 @@ I am an experienced **Software & Backend Engineer**, **Desktop & Mobile Develope
   <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C798%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C799%20hrs%2019%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-99%20hrs%2044%20mins-blue?style=flat)
 
@@ -172,35 +172,35 @@ Sunday                   5487 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Markdown                 2 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
-Python                   2 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-TypeScript               2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
-YAML                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-Bash                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+Markdown                 3 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   26.04 % 
+Python                   2 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
+TypeScript               2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+Bash                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+YAML                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
 
 🔥 Editors: 
-PyCharm                  4 hrs 52 mins       ███████████░░░░░░░░░░░░░░   43.05 % 
-VS Code                  3 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   30.43 % 
-WebStorm                 1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-Antigravity Desktop      1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-Vim                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+PyCharm                  4 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   40.29 % 
+VS Code                  4 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   34.89 % 
+WebStorm                 1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Antigravity Desktop      1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Vim                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🐱‍💻 Projects: 
-spoken-ui                3 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   33.66 % 
-spoken-api               3 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   29.86 % 
-koya_task                3 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   27.29 % 
-Unknown Project          50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-spokenai-desktop         12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+spoken-api               4 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   34.36 % 
+spoken-ui                3 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   31.50 % 
+koya_task                3 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
+Unknown Project          50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+spokenai-desktop         12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 
 💻 Operating System: 
-Windows                  8 hrs 22 mins       ██████████████████░░░░░░░   73.80 % 
-Linux                    2 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   26.20 % 
+Windows                  8 hrs 22 mins       █████████████████░░░░░░░░   69.07 % 
+Linux                    3 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   30.93 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 41 mins (58.97%)
+⏱ AI Coding Time: 6 hrs 41 mins (55.19%)
 
 ✍️ 105 lines written by AI, 316 lines written by hand (24.94% AI-written)
 
@@ -220,7 +220,7 @@ Gemini                   107 lines           ███████████�
 ```
 
 
- Last Updated on 10/08/2026 23:19:59 UTC
+ Last Updated on 10/08/2026 23:35:02 UTC
 <!--END_SECTION:waka-->
 
 </details>
