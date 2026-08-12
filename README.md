@@ -137,9 +137,9 @@ I am an experienced **Software & Backend Engineer**, **Desktop & Mobile Develope
   <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C804%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C809%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-100%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-101%20hrs%201%20min-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -172,37 +172,37 @@ Sunday                   5535 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Python                   6 hrs 48 mins       ███████████░░░░░░░░░░░░░░   42.83 % 
-Markdown                 2 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-TypeScript               2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-YAML                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-Bash                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Python                   10 hrs 58 mins      ██████████████░░░░░░░░░░░   55.58 % 
+Markdown                 2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+TypeScript               2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+YAML                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+Bash                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 1 min         ███████████░░░░░░░░░░░░░░   44.14 % 
-PyCharm                  4 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   29.42 % 
-WebStorm                 1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-Antigravity Desktop      1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-IntelliJ IDEA            27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+VS Code                  10 hrs 55 mins      ██████████████░░░░░░░░░░░   55.34 % 
+PyCharm                  4 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
+WebStorm                 1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+Antigravity Desktop      1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+IntelliJ IDEA            27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 
 🐱‍💻 Projects: 
-spoken-api               7 hrs 47 mins       ████████████░░░░░░░░░░░░░   48.98 % 
-spoken-ui                3 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
-koya_task                3 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
-xtraction-api            27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-implementation           19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+spoken-api               11 hrs 16 mins      ██████████████░░░░░░░░░░░   57.14 % 
+spoken-ui                3 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+koya_task                3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+implementation           53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+xtraction-api            27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 
 💻 Operating System: 
-Windows                  8 hrs 59 mins       ██████████████░░░░░░░░░░░   56.53 % 
-Linux                    6 hrs 55 mins       ███████████░░░░░░░░░░░░░░   43.47 % 
+Linux                    10 hrs 15 mins      █████████████░░░░░░░░░░░░   51.97 % 
+Windows                  9 hrs 28 mins       ████████████░░░░░░░░░░░░░   48.03 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 41 mins (42.09%)
+⏱ AI Coding Time: 7 hrs 6 mins (36.0%)
 
-✍️ 162 lines written by AI, 781 lines written by hand (17.18% AI-written)
+✍️ 162 lines written by AI, 1,311 lines written by hand (11.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -213,14 +213,14 @@ Linux                    6 hrs 55 mins       ███████████�
 Gemini                   188 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 17.18% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 11.0% of written lines came from AI
 📄 Detailed Prompter — average 1,246 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 81.77% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 88.31% of changed lines were hand-edited
 ```
 
 
- Last Updated on 12/08/2026 23:21:10 UTC
+ Last Updated on 12/08/2026 23:37:13 UTC
 <!--END_SECTION:waka-->
 
 </details>
