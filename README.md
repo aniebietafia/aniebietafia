@@ -137,90 +137,16 @@ I am an experienced **Software & Backend Engineer**, **Desktop & Mobile Develope
   <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C814%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C820%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-101%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-105%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.95%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                8618 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-🌆 Daytime                25544 commits       ████████████░░░░░░░░░░░░░   47.18 % 
-🌃 Evening                14559 commits       ███████░░░░░░░░░░░░░░░░░░   26.89 % 
-🌙 Night                  5415 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   8544 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Tuesday                  7188 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Wednesday                8148 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Thursday                 7686 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Friday                   8186 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Saturday                 8801 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-Sunday                   5583 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Lagos
-
-💬 Programming Languages: 
-Python                   12 hrs 32 mins      ███████████████░░░░░░░░░░   61.62 % 
-Markdown                 3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-YAML                     1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-Bash                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-
-🔥 Editors: 
-VS Code                  13 hrs 51 mins      █████████████████░░░░░░░░   68.10 % 
-PyCharm                  4 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
-Antigravity Desktop      57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-WebStorm                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-IntelliJ IDEA            27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-
-🐱‍💻 Projects: 
-spoken-api               14 hrs 14 mins      █████████████████░░░░░░░░   69.97 % 
-koya_task                3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-implementation           1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-spoken-ui                44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-xtraction-api            27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-
-💻 Operating System: 
-Linux                    12 hrs 26 mins      ███████████████░░░░░░░░░░   61.16 % 
-Windows                  7 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   38.84 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 5 hrs 6 mins (25.14%)
-
-✍️ 58 lines written by AI, 2,045 lines written by hand (2.76% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 8 AI Prompts
-
-Gemini                   82 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 2.76% of written lines came from AI
-📚 Verbose Prompter — average 1,573 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 96.48% of changed lines were hand-edited
-```
-
-
- Last Updated on 14/08/2026 23:32:55 UTC
+ Last Updated on 14/08/2026 23:48:09 UTC
 <!--END_SECTION:waka-->
 
 </details>
