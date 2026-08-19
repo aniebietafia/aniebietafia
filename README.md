@@ -172,38 +172,38 @@ Sunday                   5609 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Python                   10 hrs 17 mins      █████████████░░░░░░░░░░░░   50.73 % 
-Markdown                 3 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
-YAML                     2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-Bash                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-JSON                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Python                   6 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   40.99 % 
+Markdown                 2 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+YAML                     2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Bash                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+JSON                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
 
 🔥 Editors: 
-VS Code                  13 hrs              ████████████████░░░░░░░░░   64.09 % 
-PyCharm                  4 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
-Antigravity Desktop      2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-WebStorm                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-Vim                      22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+VS Code                  7 hrs 53 mins       █████████████░░░░░░░░░░░░   51.97 % 
+PyCharm                  4 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   27.15 % 
+Antigravity Desktop      2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+WebStorm                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+Vim                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 
 🐱‍💻 Projects: 
-spoken-api               15 hrs 17 mins      ███████████████████░░░░░░   75.33 % 
-implementation           2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-spokenai-admin-dashboard 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-repo_analysis_tool       25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-spokenai-mobile          12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+spoken-api               11 hrs 12 mins      ██████████████████░░░░░░░   73.89 % 
+implementation           1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+spokenai-admin-dashboard 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+repo_analysis_tool       25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+spokenai-mobile          12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 💻 Operating System: 
-Linux                    10 hrs 40 mins      █████████████░░░░░░░░░░░░   52.57 % 
-Windows                  9 hrs 26 mins       ████████████░░░░░░░░░░░░░   46.51 % 
-WSL                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Windows                  8 hrs 23 mins       ██████████████░░░░░░░░░░░   55.30 % 
+Linux                    6 hrs 35 mins       ███████████░░░░░░░░░░░░░░   43.46 % 
+WSL                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 4 mins (29.9%)
+⏱ AI Coding Time: 5 hrs 28 mins (36.12%)
 
-✍️ 123 lines written by AI, 4,162 lines written by hand (2.87% AI-written)
+✍️ 123 lines written by AI, 3,584 lines written by hand (3.32% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -214,14 +214,14 @@ WSL                      11 mins             ░░░░░░░░░░░�
 Gemini                   195 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 2.87% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 3.32% of written lines came from AI
 📄 Detailed Prompter — average 1,019 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 95.76% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 95.1% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/08/2026 23:34:54 UTC
+ Last Updated on 19/08/2026 23:50:20 UTC
 <!--END_SECTION:waka-->
 
 </details>
