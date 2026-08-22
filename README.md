@@ -137,9 +137,9 @@ I am an experienced **Software & Backend Engineer**, **Desktop & Mobile Develope
   <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C828%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C830%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-110%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-112%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -172,57 +172,57 @@ Sunday                   5633 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Python                   4 hrs 41 mins       ███████████░░░░░░░░░░░░░░   42.85 % 
-Markdown                 2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
-Vue                      1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-Java                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Python                   6 hrs 19 mins       █████████████░░░░░░░░░░░░   52.31 % 
+Markdown                 2 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+Vue                      1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Java                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+YAML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 7 mins        ████████████░░░░░░░░░░░░░   46.68 % 
-PyCharm                  3 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   28.17 % 
-IntelliJ IDEA            1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-WebStorm                 56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-Antigravity Desktop      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+PyCharm                  5 hrs 7 mins        ███████████░░░░░░░░░░░░░░   42.38 % 
+VS Code                  4 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   34.02 % 
+IntelliJ IDEA            1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+WebStorm                 56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Antigravity Desktop      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 
 🐱‍💻 Projects: 
-spoken-api               5 hrs 30 mins       █████████████░░░░░░░░░░░░   50.29 % 
-spokenai-admin-dashboard 1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-data-structures-and-algor49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-implementation           47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-spokenai-desktop         40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+spoken-api               7 hrs 8 mins        ███████████████░░░░░░░░░░   59.10 % 
+spokenai-admin-dashboard 1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+spokenai-desktop         1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+data-structures-and-algor49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+implementation           42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
 
 💻 Operating System: 
-Windows                  6 hrs 48 mins       ████████████████░░░░░░░░░   62.12 % 
-Linux                    3 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   36.17 % 
-WSL                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Windows                  8 hrs 51 mins       ██████████████████░░░░░░░   73.27 % 
+Linux                    3 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
+WSL                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 31 mins (41.28%)
+⏱ AI Coding Time: 6 hrs 30 mins (53.8%)
 
-✍️ 162 lines written by AI, 2,748 lines written by hand (5.57% AI-written)
+✍️ 590 lines written by AI, 2,753 lines written by hand (17.65% AI-written)
 
-🔤 1,875,920 Input Tokens, 65,692 Output Tokens
+🔤 2,332,391 Input Tokens, 142,739 Output Tokens
 
-💵 $33.67 Estimated AI Cost This Week
+💵 $102.77 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 29 AI Prompts
+🧠 19 AI Sessions, 44 AI Prompts
 
-Opencode-Cli             117 lines           ███████████████░░░░░░░░░░   58.50 % 
-Gemini                   83 lines            ██████████░░░░░░░░░░░░░░░   41.50 % 
+Opencode-Cli             587 lines           ██████████████████████░░░   87.61 % 
+Gemini                   83 lines            ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 5.57% of written lines came from AI
-📄 Detailed Prompter — average 637 characters per prompt
+🧑‍💻 Mostly Hands-On — 17.65% of written lines came from AI
+📚 Verbose Prompter — average 1,632 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 93.4% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 80.94% of changed lines were hand-edited
 ```
 
 
- Last Updated on 22/08/2026 23:25:55 UTC
+ Last Updated on 22/08/2026 23:40:44 UTC
 <!--END_SECTION:waka-->
 
 </details>
