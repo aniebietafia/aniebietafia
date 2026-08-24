@@ -143,26 +143,26 @@ I am an experienced **Software & Backend Engineer**, **Desktop & Mobile Develope
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-33.47%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.22%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                8688 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-🌆 Daytime                25942 commits       ████████████░░░░░░░░░░░░░   47.13 % 
-🌃 Evening                14802 commits       ███████░░░░░░░░░░░░░░░░░░   26.89 % 
-🌙 Night                  5606 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+🌞 Morning                340 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+🌆 Daytime                1154 commits        ██████████████░░░░░░░░░░░   56.85 % 
+🌃 Evening                452 commits         ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
+🌙 Night                  84 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   8614 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Tuesday                  7293 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Wednesday                8267 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-Thursday                 7856 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Friday                   8376 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Saturday                 8972 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-Sunday                   5660 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Monday                   273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Tuesday                  197 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+Wednesday                141 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+Thursday                 341 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+Friday                   331 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Saturday                 229 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Sunday                   518 commits         ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
 ```
 
 
@@ -222,7 +222,7 @@ Gemini                   83 lines            ███░░░░░░░░�
 ```
 
 
- Last Updated on 24/08/2026 12:53:42 UTC
+ Last Updated on 24/08/2026 12:55:14 UTC
 <!--END_SECTION:waka-->
 
 </details>
