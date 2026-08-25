@@ -137,9 +137,9 @@ I am an experienced **Software & Backend Engineer**, **Desktop & Mobile Develope
   <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C836%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C838%20hrs%2037%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-115%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-117%20hrs%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -172,56 +172,55 @@ Sunday                   5642 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Python                   6 hrs 48 mins       █████████████░░░░░░░░░░░░   52.89 % 
-Markdown                 1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-TypeScript               1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-Vue                      1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Other                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Python                   8 hrs 9 mins        ██████████████░░░░░░░░░░░   54.75 % 
+Markdown                 1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+TypeScript               1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+Vue                      1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+Other                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 
 🔥 Editors: 
-PyCharm                  6 hrs 37 mins       █████████████░░░░░░░░░░░░   51.48 % 
-VS Code                  2 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
-WebStorm                 2 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
-IntelliJ IDEA            33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Vim                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+PyCharm                  8 hrs 7 mins        ██████████████░░░░░░░░░░░   54.45 % 
+VS Code                  3 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+WebStorm                 2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+IntelliJ IDEA            33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+Antigravity Desktop      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 🐱‍💻 Projects: 
-spoken-api               7 hrs 57 mins       ███████████████░░░░░░░░░░   61.80 % 
-spoken-ui                1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-spokenai-admin-dashboard 1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-spokenai-desktop         1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-marktplatz               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+spoken-api               9 hrs 50 mins       █████████████████░░░░░░░░   66.01 % 
+spoken-ui                1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+spokenai-admin-dashboard 1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+spokenai-desktop         1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+elixir                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 
 💻 Operating System: 
-Windows                  10 hrs 43 mins      █████████████████████░░░░   83.24 % 
-Linux                    1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-WSL                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Windows                  12 hrs 56 mins      ██████████████████████░░░   86.79 % 
+Linux                    1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 10 mins (71.26%)
+⏱ AI Coding Time: 10 hrs 52 mins (72.94%)
 
-✍️ 691 lines written by AI, 296 lines written by hand (70.01% AI-written)
+✍️ 1,591 lines written by AI, 314 lines written by hand (83.52% AI-written)
 
-🔤 3,299,336 Input Tokens, 184,920 Output Tokens
+🔤 3,924,321 Input Tokens, 257,370 Output Tokens
 
-💵 $207.78 Estimated AI Cost This Week
+💵 $274.56 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 48 AI Prompts
+🧠 24 AI Sessions, 63 AI Prompts
 
-Opencode-Cli             754 lines           █████████████████████████   100.00 % 
+Opencode-Cli             1,675 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 70.01% of written lines came from AI
-📚 Verbose Prompter — average 1,762 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 35.61% of changed lines were hand-edited
+🤖 AI-Driven — 83.52% of written lines came from AI
+📄 Detailed Prompter — average 1,402 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 20.77% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/08/2026 23:31:51 UTC
+ Last Updated on 25/08/2026 23:46:34 UTC
 <!--END_SECTION:waka-->
 
 </details>
