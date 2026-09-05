@@ -143,26 +143,26 @@ I am an experienced **Software & Backend Engineer**, **Desktop & Mobile Develope
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.00%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1115 commits        █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
-🌆 Daytime                3163 commits        █████████████░░░░░░░░░░░░   53.92 % 
-🌃 Evening                1366 commits        ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
-🌙 Night                  222 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1157 commits        █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
-Tuesday                  860 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Wednesday                770 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Thursday                 892 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-Friday                   525 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-Saturday                 676 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-Sunday                   986 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
@@ -203,7 +203,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 05/09/2026 05:53:55 UTC
+ Last Updated on 05/09/2026 05:54:54 UTC
 <!--END_SECTION:waka-->
 
 </details>
