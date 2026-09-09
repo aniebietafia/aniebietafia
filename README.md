@@ -137,9 +137,9 @@ I am an experienced **Software & Backend Engineer**, **Desktop & Mobile Develope
   <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C861%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C861%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-130%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-131%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -172,26 +172,27 @@ Sunday                   5785 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Python                   3 hrs 56 mins       ███████████░░░░░░░░░░░░░░   45.11 % 
-Markdown                 50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-Java                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-Bash                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-XML                      37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+Python                   3 hrs 43 mins       ███████████████░░░░░░░░░░   59.13 % 
+Bash                     43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Markdown                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+Go                       23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+TypeScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
 
 🔥 Editors: 
-PyCharm                  5 hrs 48 mins       █████████████████░░░░░░░░   66.41 % 
-IntelliJ IDEA            2 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   28.15 % 
-WebStorm                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+PyCharm                  5 hrs 9 mins        ████████████████████░░░░░   81.91 % 
+WebStorm                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+VS Code                  23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+IntelliJ IDEA            16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
 
 🐱‍💻 Projects: 
-spoken-api               5 hrs 48 mins       █████████████████░░░░░░░░   66.41 % 
-secbank                  2 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   26.68 % 
-spoken-ui                28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-xtraction-api            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-marktplatz               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+spoken-api               5 hrs 9 mins        ████████████████████░░░░░   81.91 % 
+spoken-ui                28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+repo_documentation_genera23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+secbank                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+xtraction-api            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 💻 Operating System: 
-Windows                  8 hrs 45 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -201,7 +202,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 09/09/2026 23:21:51 UTC
+ Last Updated on 09/09/2026 23:37:18 UTC
 <!--END_SECTION:waka-->
 
 </details>
