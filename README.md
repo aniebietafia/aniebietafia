@@ -172,27 +172,28 @@ Sunday                   5890 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Rust                     1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
-Markdown                 1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-JSON                     1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Bash                     1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Go                       43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Markdown                 2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
+Rust                     1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+JSON                     1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Bash                     1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+Python                   59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
 
 🔥 Editors: 
-CLion                    4 hrs 19 mins       ██████████████░░░░░░░░░░░   55.41 % 
-PyCharm                  2 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   28.20 % 
-VS Code                  53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-WebStorm                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+CLion                    7 hrs 43 mins       █████████████████░░░░░░░░   67.94 % 
+PyCharm                  2 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
+VS Code                  29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+WebStorm                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+IntelliJ IDEA            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🐱‍💻 Projects: 
-kainos                   2 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   32.24 % 
-spoken-api               2 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   28.20 % 
-elixir                   1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
-repo_documentation_genera53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-spoken-ui                22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+kainos                   4 hrs 49 mins       ███████████░░░░░░░░░░░░░░   42.41 % 
+elixir                   2 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
+spoken-api               2 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
+repo_documentation_genera29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+spoken-ui                22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 
 💻 Operating System: 
-Windows                  7 hrs 48 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -202,7 +203,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 16/09/2026 23:17:56 UTC
+ Last Updated on 16/09/2026 23:35:59 UTC
 <!--END_SECTION:waka-->
 
 </details>
