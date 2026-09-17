@@ -137,9 +137,9 @@ I am an experienced **Software & Backend Engineer**, **Desktop & Mobile Develope
   <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C872%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C874%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-140%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-141%20hrs%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -172,28 +172,28 @@ Sunday                   5890 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Markdown                 2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
-Rust                     1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-JSON                     1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Bash                     1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-Python                   59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Markdown                 2 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   26.06 % 
+Rust                     2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
+JSON                     1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+Python                   1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+TypeScript               56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
 
 🔥 Editors: 
-CLion                    7 hrs 43 mins       █████████████████░░░░░░░░   67.94 % 
-PyCharm                  2 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
-VS Code                  29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-WebStorm                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-IntelliJ IDEA            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+CLion                    8 hrs 38 mins       ████████████████████░░░░░   78.87 % 
+PyCharm                  1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+VS Code                  39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+WebStorm                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+IntelliJ IDEA            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 🐱‍💻 Projects: 
-kainos                   4 hrs 49 mins       ███████████░░░░░░░░░░░░░░   42.41 % 
-elixir                   2 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
-spoken-api               2 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
-repo_documentation_genera29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-spoken-ui                22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+kainos                   5 hrs 39 mins       █████████████░░░░░░░░░░░░   51.63 % 
+elixir                   3 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   28.62 % 
+spoken-api               1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+rhema                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+spoken-ui                17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 💻 Operating System: 
-Windows                  11 hrs 22 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -203,7 +203,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 17/09/2026 23:26:04 UTC
+ Last Updated on 17/09/2026 23:45:32 UTC
 <!--END_SECTION:waka-->
 
 </details>
