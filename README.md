@@ -172,28 +172,28 @@ Sunday                   5959 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Rust                     2 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
-CSS                      1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-Markdown                 1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-TypeScript               50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-YAML                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Rust                     3 hrs               ███████░░░░░░░░░░░░░░░░░░   26.48 % 
+CSS                      2 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
+Markdown                 1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+TypeScript               1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+YAML                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
 
 🔥 Editors: 
-CLion                    5 hrs 16 mins       ██████████████░░░░░░░░░░░   54.67 % 
-VS Code                  2 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
-PyCharm                  1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-WebStorm                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-IntelliJ IDEA            16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+CLion                    6 hrs 3 mins        █████████████░░░░░░░░░░░░   53.30 % 
+VS Code                  3 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   28.31 % 
+PyCharm                  1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+WebStorm                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+IntelliJ IDEA            16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 🐱‍💻 Projects: 
-kainos                   5 hrs 16 mins       ██████████████░░░░░░░░░░░   54.67 % 
-brints-overview          1 hr 45 mins        █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
-spoken-api               1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-servo                    41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-spoken-ui                22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+kainos                   6 hrs 3 mins        █████████████░░░░░░░░░░░░   53.30 % 
+brints-overview          1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+servo                    1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+spoken-api               1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+spoken-ui                22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 
 💻 Operating System: 
-Windows                  9 hrs 39 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -203,7 +203,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 28/09/2026 23:24:21 UTC
+ Last Updated on 28/09/2026 23:44:54 UTC
 <!--END_SECTION:waka-->
 
 </details>
