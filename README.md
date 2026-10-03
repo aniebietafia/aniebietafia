@@ -172,35 +172,35 @@ Sunday                   6097 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Rust                     2 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
-JSON                     1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-CSS                      1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Markdown                 1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-Bash                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+Rust                     2 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   33.26 % 
+JSON                     1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+Markdown                 1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+TypeScript               41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+Bash                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
 
 🔥 Editors: 
-CLion                    7 hrs 1 min         ██████████████████░░░░░░░   72.99 % 
-VS Code                  2 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
-PyCharm                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-WebStorm                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+CLion                    5 hrs 11 mins       ██████████████████░░░░░░░   70.24 % 
+VS Code                  1 hr 50 mins        ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
+PyCharm                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+WebStorm                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 
 🐱‍💻 Projects: 
-kainos                   6 hrs 34 mins       █████████████████░░░░░░░░   68.26 % 
-servo                    1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-brints-overview          51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-elixir                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-spoken-api               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+kainos                   4 hrs 44 mins       ████████████████░░░░░░░░░   64.08 % 
+servo                    1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+brints-overview          33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+elixir                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+repo_analysis_tool       8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 💻 Operating System: 
-Windows                  9 hrs 37 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (1.7%)
+⏱ AI Coding Time: 9 mins (2.21%)
 
-✍️ 120 lines written by AI, 123,058 lines written by hand (0.1% AI-written)
+✍️ 120 lines written by AI, 122,956 lines written by hand (0.1% AI-written)
 
 🔤 145,211 Input Tokens, 14,862 Output Tokens
 
@@ -218,7 +218,7 @@ Glm                      152 lines           ███████████�
 ```
 
 
- Last Updated on 03/10/2026 23:20:28 UTC
+ Last Updated on 03/10/2026 23:38:47 UTC
 <!--END_SECTION:waka-->
 
 </details>
