@@ -145,80 +145,8 @@ I am an experienced **Software & Backend Engineer**, **Desktop & Mobile Develope
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38.95%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                9251 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-🌆 Daytime                28499 commits       ████████████░░░░░░░░░░░░░   46.86 % 
-🌃 Evening                16449 commits       ███████░░░░░░░░░░░░░░░░░░   27.05 % 
-🌙 Night                  6618 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   9175 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Tuesday                  7975 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Wednesday                9009 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Thursday                 8785 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-Friday                   9719 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-Saturday                 9993 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Sunday                   6161 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Lagos
-
-💬 Programming Languages: 
-Rust                     2 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   33.26 % 
-JSON                     1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-Markdown                 1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-TypeScript               41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-Bash                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-
-🔥 Editors: 
-CLion                    5 hrs 11 mins       ██████████████████░░░░░░░   70.24 % 
-VS Code                  1 hr 50 mins        ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
-PyCharm                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-WebStorm                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-
-🐱‍💻 Projects: 
-kainos                   4 hrs 44 mins       ████████████████░░░░░░░░░   64.08 % 
-servo                    1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-brints-overview          33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-elixir                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-repo_analysis_tool       8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-
-💻 Operating System: 
-Windows                  7 hrs 23 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 9 mins (2.21%)
-
-✍️ 120 lines written by AI, 122,956 lines written by hand (0.1% AI-written)
-
-🔤 145,211 Input Tokens, 14,862 Output Tokens
-
-💵 $3.08 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 2 AI Prompts
-
-Glm                      152 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.1% of written lines came from AI
-📄 Detailed Prompter — average 616 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 99.91% of changed lines were hand-edited
-```
-
-
- Last Updated on 04/10/2026 23:24:42 UTC
+ Last Updated on 04/10/2026 23:42:06 UTC
 <!--END_SECTION:waka-->
 
 </details>
