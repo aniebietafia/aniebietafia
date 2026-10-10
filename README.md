@@ -143,10 +143,86 @@ I am an experienced **Software & Backend Engineer**, **Desktop & Mobile Develope
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-39.10%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-39.20%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                9255 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+🌆 Daytime                28520 commits       ████████████░░░░░░░░░░░░░   46.87 % 
+🌃 Evening                16462 commits       ███████░░░░░░░░░░░░░░░░░░   27.05 % 
+🌙 Night                  6618 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   9187 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+Tuesday                  7982 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Wednesday                9016 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+Thursday                 8789 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Friday                   9720 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Saturday                 9999 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Sunday                   6162 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+```
 
 
- Last Updated on 10/10/2026 23:34:32 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Lagos
+
+💬 Programming Languages: 
+Markdown                 5 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   38.94 % 
+TypeScript               3 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   27.11 % 
+JSON                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+Vue                      48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Python                   36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+
+🔥 Editors: 
+CLion                    5 hrs 33 mins       ███████████░░░░░░░░░░░░░░   42.53 % 
+Opencode Cli             4 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   31.38 % 
+Antigravity Desktop      1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+VS Code                  1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+PyCharm                  53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+
+🐱‍💻 Projects: 
+kainos                   7 hrs 35 mins       ███████████████░░░░░░░░░░   58.09 % 
+aniebietafia             2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+spoken-api               1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+servo                    49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+brints-overview          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+
+💻 Operating System: 
+Windows                  13 hrs 4 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 7 hrs 30 mins (57.36%)
+
+✍️ 13,116 lines written by AI, 406 lines written by hand (97.0% AI-written)
+
+🔤 12,323,638 Input Tokens, 744,055 Output Tokens
+
+💵 $199.45 Estimated AI Cost This Week
+
+🧠 25 AI Sessions, 47 AI Prompts
+
+GLM                      13,380 lines        █████████████████████████   100.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 97.0% of written lines came from AI
+📄 Detailed Prompter — average 712 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 3.79% of changed lines were hand-edited
+```
+
+
+ Last Updated on 10/10/2026 23:51:39 UTC
 <!--END_SECTION:waka-->
 
 </details>
