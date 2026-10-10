@@ -137,91 +137,16 @@ I am an experienced **Software & Backend Engineer**, **Desktop & Mobile Develope
   <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C903%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C906%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-150%20hrs%2038%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-152%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38.75%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                9247 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-🌆 Daytime                28496 commits       ████████████░░░░░░░░░░░░░   46.87 % 
-🌃 Evening                16436 commits       ███████░░░░░░░░░░░░░░░░░░   27.03 % 
-🌙 Night                  6618 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   9167 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-Tuesday                  7977 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-Wednesday                9004 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Thursday                 8783 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-Friday                   9717 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-Saturday                 9990 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Sunday                   6159 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-39.10%20million%20lines%20of%20code-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Lagos
-
-💬 Programming Languages: 
-Markdown                 3 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   41.05 % 
-TypeScript               2 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   29.23 % 
-Vue                      48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-Bash                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-
-🔥 Editors: 
-CLion                    3 hrs 29 mins       ███████████░░░░░░░░░░░░░░   45.10 % 
-Opencode Cli             3 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   40.81 % 
-VS Code                  1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-Antigravity Desktop      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-
-🐱‍💻 Projects: 
-kainos                   4 hrs 15 mins       ██████████████░░░░░░░░░░░   54.93 % 
-aniebietafia             2 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   29.76 % 
-servo                    49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-brints-overview          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-spoken-ui                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-
-💻 Operating System: 
-Windows                  7 hrs 45 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 4 hrs 24 mins (56.78%)
-
-✍️ 6,723 lines written by AI, 248 lines written by hand (96.44% AI-written)
-
-🔤 9,108,376 Input Tokens, 368,564 Output Tokens
-
-💵 $141.86 Estimated AI Cost This Week
-
-🧠 11 AI Sessions, 24 AI Prompts
-
-GLM                      6,823 lines         ████████████████████████░   97.82 % 
-Glm                      152 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 96.44% of written lines came from AI
-📄 Detailed Prompter — average 617 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 3.93% of changed lines were hand-edited
-```
-
-
- Last Updated on 10/10/2026 23:20:15 UTC
+ Last Updated on 10/10/2026 23:34:32 UTC
 <!--END_SECTION:waka-->
 
 </details>
