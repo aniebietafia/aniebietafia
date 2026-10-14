@@ -143,26 +143,26 @@ I am an experienced **Software & Backend Engineer**, **Desktop & Mobile Develope
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.09%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1461 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-🌆 Daytime                4086 commits        ████████████░░░░░░░░░░░░░   47.87 % 
-🌃 Evening                2725 commits        ████████░░░░░░░░░░░░░░░░░   31.93 % 
-🌙 Night                  263 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1594 commits        █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
-Tuesday                  1323 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Wednesday                1167 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Thursday                 1134 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Friday                   799 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-Saturday                 1128 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-Sunday                   1390 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
@@ -222,7 +222,7 @@ Opencode-Cli             0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 14/10/2026 03:57:31 UTC
+ Last Updated on 14/10/2026 03:58:00 UTC
 <!--END_SECTION:waka-->
 
 </details>
