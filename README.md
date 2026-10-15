@@ -137,9 +137,9 @@ I am an experienced **Software & Backend Engineer**, **Desktop & Mobile Develope
   <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C918%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C919%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-159%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-160%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -172,42 +172,42 @@ Sunday                   6164 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Rust                     7 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   39.03 % 
-Markdown                 5 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   30.09 % 
-JSON                     1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-TypeScript               1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-Other                    51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+Rust                     8 hrs 13 mins       ███████████░░░░░░░░░░░░░░   43.85 % 
+Markdown                 5 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   28.84 % 
+JSON                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+TypeScript               1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Other                    51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 
 🔥 Editors: 
-CLion                    5 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   29.24 % 
-VS Code                  5 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   29.23 % 
-Opencode Cli             5 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   28.44 % 
-Antigravity Desktop      1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-PyCharm                  1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+VS Code                  6 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   32.86 % 
+Opencode Cli             5 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   28.91 % 
+CLion                    4 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
+Antigravity Desktop      1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+PyCharm                  1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 
 🐱‍💻 Projects: 
-servo                    10 hrs 58 mins      ███████████████░░░░░░░░░░   60.90 % 
-kainos                   3 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-spoken-api               2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-brints-overview          45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-tuch.tv                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+servo                    12 hrs 9 mins       ████████████████░░░░░░░░░   64.89 % 
+kainos                   3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+spoken-api               2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+brints-overview          45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+tuch.tv                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
 💻 Operating System: 
-Windows                  18 hrs 1 min        █████████████████████████   100.00 % 
+Windows                  18 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 59 mins (49.85%)
+⏱ AI Coding Time: 9 hrs 34 mins (51.04%)
 
-✍️ 7,998 lines written by AI, 606 lines written by hand (92.96% AI-written)
+✍️ 7,998 lines written by AI, 668 lines written by hand (92.29% AI-written)
 
-🔤 15,661,123 Input Tokens, 914,463 Output Tokens
+🔤 16,126,416 Input Tokens, 997,600 Output Tokens
 
-💵 $184.40 Estimated AI Cost This Week
+💵 $205.90 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 66 AI Prompts
+🧠 24 AI Sessions, 71 AI Prompts
 
 GLM                      7,366 lines         ███████████████████████░░   91.78 % 
 Gemini                   660 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
@@ -215,14 +215,14 @@ Opencode-Cli             0 lines             ░░░░░░░░░░░�
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.96% of written lines came from AI
-📚 Verbose Prompter — average 4,226 characters per prompt
+🤖 AI-Driven — 92.29% of written lines came from AI
+📚 Verbose Prompter — average 3,988 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 9.32% of changed lines were hand-edited
+🚀 High AI Trust — 11.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 15/10/2026 23:31:36 UTC
+ Last Updated on 15/10/2026 23:47:03 UTC
 <!--END_SECTION:waka-->
 
 </details>
