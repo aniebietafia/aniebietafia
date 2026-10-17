@@ -137,9 +137,9 @@ I am an experienced **Software & Backend Engineer**, **Desktop & Mobile Develope
   <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C923%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C932%20hrs%2036%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-162%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-169%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -150,7 +150,7 @@ I am an experienced **Software & Backend Engineer**, **Desktop & Mobile Develope
 ```text
 🌞 Morning                9347 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
 🌆 Daytime                28841 commits       ████████████░░░░░░░░░░░░░   46.83 % 
-🌃 Evening                16657 commits       ███████░░░░░░░░░░░░░░░░░░   27.05 % 
+🌃 Evening                16658 commits       ███████░░░░░░░░░░░░░░░░░░   27.05 % 
 🌙 Night                  6740 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
 ```
 📅 **I'm Most Productive on Saturday** 
@@ -159,7 +159,7 @@ I am an experienced **Software & Backend Engineer**, **Desktop & Mobile Develope
 Monday                   9274 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
 Tuesday                  8052 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
 Wednesday                9074 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Thursday                 8897 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Thursday                 8898 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
 Friday                   9918 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
 Saturday                 10133 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
 Sunday                   6237 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
@@ -172,58 +172,58 @@ Sunday                   6237 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Rust                     8 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   37.92 % 
-Markdown                 5 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   26.70 % 
-HTML                     1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-TypeScript               1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-JSON                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+Rust                     8 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   31.03 % 
+Markdown                 6 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
+Python                   4 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+TypeScript               1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+HTML                     1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 
 🔥 Editors: 
-Opencode Cli             7 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   32.90 % 
-VS Code                  6 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   28.94 % 
-CLion                    3 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-WebStorm                 1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-Antigravity Desktop      1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Opencode Cli             11 hrs 43 mins      ███████████░░░░░░░░░░░░░░   44.20 % 
+VS Code                  6 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
+CLion                    3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+PyCharm                  2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+WebStorm                 2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
 
 🐱‍💻 Projects: 
-servo                    12 hrs 9 mins       ██████████████░░░░░░░░░░░   56.11 % 
-spoken-ui                3 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-spoken-api               2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-kainos                   2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-brints-overview          45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+servo                    12 hrs 9 mins       ███████████░░░░░░░░░░░░░░   45.84 % 
+spoken-api               7 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   29.56 % 
+spoken-ui                4 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+kainos                   1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+brints-overview          45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 
 💻 Operating System: 
-Windows                  21 hrs 40 mins      █████████████████████████   100.00 % 
+Windows                  26 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 13 mins (56.38%)
+⏱ AI Coding Time: 16 hrs 59 mins (64.05%)
 
-✍️ 10,172 lines written by AI, 487 lines written by hand (95.43% AI-written)
+✍️ 16,309 lines written by AI, 364 lines written by hand (97.82% AI-written)
 
-🔤 15,648,600 Input Tokens, 941,399 Output Tokens
+🔤 16,287,168 Input Tokens, 1,291,804 Output Tokens
 
-💵 $233.60 Estimated AI Cost This Week
+💵 $504.58 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 78 AI Prompts
+🧠 20 AI Sessions, 77 AI Prompts
 
-GLM                      9,635 lines         ███████████████████████░░   93.43 % 
-Gemini                   660 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-DeepSeek                 18 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+DeepSeek                 12,663 lines        ███████████████████░░░░░░   76.50 % 
+GLM                      3,231 lines         █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
+Gemini                   660 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.43% of written lines came from AI
-📚 Verbose Prompter — average 3,614 characters per prompt
+🤖 AI-Driven — 97.82% of written lines came from AI
+📚 Verbose Prompter — average 3,553 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 7.17% of changed lines were hand-edited
+🚀 High AI Trust — 3.55% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/10/2026 23:19:36 UTC
+ Last Updated on 17/10/2026 23:37:08 UTC
 <!--END_SECTION:waka-->
 
 </details>
