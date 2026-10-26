@@ -172,56 +172,56 @@ Sunday                   5732 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Python                   7 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-Markdown                 7 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-TypeScript               5 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-Rust                     5 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Bash                     4 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Markdown                 7 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
+Python                   7 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+TypeScript               6 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+Rust                     5 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Bash                     4 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
 
 🔥 Editors: 
-CLion                    18 hrs 28 mins      ████████████░░░░░░░░░░░░░   49.20 % 
-PyCharm                  12 hrs 58 mins      █████████░░░░░░░░░░░░░░░░   34.53 % 
-WebStorm                 2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-Opencode Cli             1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-OpenCode                 1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+CLion                    18 hrs 21 mins      ████████████░░░░░░░░░░░░░   47.27 % 
+PyCharm                  12 hrs 23 mins      ████████░░░░░░░░░░░░░░░░░   31.93 % 
+WebStorm                 4 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Opencode Cli             1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+VS Code                  1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 
 🐱‍💻 Projects: 
-kainos                   18 hrs 6 mins       ████████████░░░░░░░░░░░░░   48.22 % 
-spoken-api               10 hrs 29 mins      ███████░░░░░░░░░░░░░░░░░░   27.92 % 
-spoken-ui                6 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
-git                      1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-infra-roadmap-api        16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+kainos                   17 hrs 6 mins       ███████████░░░░░░░░░░░░░░   44.07 % 
+spoken-api               10 hrs 48 mins      ███████░░░░░░░░░░░░░░░░░░   27.84 % 
+spoken-ui                7 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
+KnotAfrik                1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+KnotAfrikv1              51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 
 💻 Operating System: 
-Windows                  37 hrs 33 mins      █████████████████████████   100.00 % 
+Windows                  38 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 hrs 8 mins (77.61%)
+⏱ AI Coding Time: 30 hrs 43 mins (79.14%)
 
-✍️ 31,405 lines written by AI, 3,938 lines written by hand (88.86% AI-written)
+✍️ 47,820 lines written by AI, 3,938 lines written by hand (92.39% AI-written)
 
-🔤 14,513,571 Input Tokens, 2,410,647 Output Tokens
+🔤 15,840,993 Input Tokens, 2,583,111 Output Tokens
 
-💵 $936.54 Estimated AI Cost This Week
+💵 $1107.68 Estimated AI Cost This Week
 
-🧠 41 AI Sessions, 103 AI Prompts
+🧠 40 AI Sessions, 101 AI Prompts
 
-GLM                      12,018 lines        █████████░░░░░░░░░░░░░░░░   37.78 % 
-DeepSeek                 11,865 lines        █████████░░░░░░░░░░░░░░░░   37.30 % 
-GPT                      7,927 lines         ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
+DeepSeek                 28,294 lines        ███████████████░░░░░░░░░░   58.65 % 
+GLM                      12,018 lines        ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
+GPT                      7,927 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.86% of written lines came from AI
-📚 Verbose Prompter — average 1,679 characters per prompt
+🤖 AI-Driven — 92.39% of written lines came from AI
+📄 Detailed Prompter — average 570 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 11.29% of changed lines were hand-edited
+🚀 High AI Trust — 7.75% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/10/2026 23:26:53 UTC
+ Last Updated on 26/10/2026 23:43:08 UTC
 <!--END_SECTION:waka-->
 
 </details>
