@@ -137,9 +137,9 @@ I am an experienced **Software & Backend Engineer**, **Desktop & Mobile Develope
   <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C031%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C032%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-242%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-242%20hrs%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -150,7 +150,7 @@ I am an experienced **Software & Backend Engineer**, **Desktop & Mobile Develope
 ```text
 🌞 Morning                8382 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
 🌆 Daytime                26890 commits       ███████████░░░░░░░░░░░░░░   44.92 % 
-🌃 Evening                16718 commits       ███████░░░░░░░░░░░░░░░░░░   27.93 % 
+🌃 Evening                16715 commits       ███████░░░░░░░░░░░░░░░░░░   27.92 % 
 🌙 Night                  7870 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
 ```
 📅 **I'm Most Productive on Friday** 
@@ -159,7 +159,7 @@ I am an experienced **Software & Backend Engineer**, **Desktop & Mobile Develope
 Monday                   8888 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
 Tuesday                  7561 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
 Wednesday                8683 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Thursday                 8545 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Thursday                 8542 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
 Friday                   10024 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
 Saturday                 9923 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
 Sunday                   6236 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
@@ -172,55 +172,54 @@ Sunday                   6236 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Rust                     6 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
-TypeScript               6 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
-Markdown                 6 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
-XML                      1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-Bash                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+TypeScript               6 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
+Markdown                 6 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
+Rust                     5 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+YAML                     2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+XML                      1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
 
 🔥 Editors: 
-CLion                    24 hrs 24 mins      ██████████████████████░░░   87.83 % 
-IntelliJ IDEA            2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-Pycharm                  50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-WebStorm                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+CLion                    23 hrs 31 mins      ██████████████████████░░░   87.80 % 
+IntelliJ IDEA            3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+PyCharm                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+WebStorm                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🐱‍💻 Projects: 
-KnotAfrik                18 hrs 51 mins      █████████████████░░░░░░░░   68.75 % 
-elixir                   5 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
-marktplatz               1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-bask                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-spoken-api               29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+KnotAfrik                18 hrs 37 mins      █████████████████░░░░░░░░   69.52 % 
+elixir                   5 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
+marktplatz               1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+bask                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+spoken-api               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 💻 Operating System: 
-Windows                  27 hrs 25 mins      █████████████████████████   100.00 % 
+Windows                  26 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 10 mins (55.31%)
+⏱ AI Coding Time: 16 hrs 1 min (59.84%)
 
-✍️ 19,144 lines written by AI, 7,358 lines written by hand (72.24% AI-written)
+✍️ 17,857 lines written by AI, 3,849 lines written by hand (82.27% AI-written)
 
-🔤 4,844,234 Input Tokens, 1,307,024 Output Tokens
+🔤 4,573,929 Input Tokens, 1,363,695 Output Tokens
 
-💵 $260.51 Estimated AI Cost This Week
+💵 $258.61 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 38 AI Prompts
+🧠 22 AI Sessions, 37 AI Prompts
 
-DeepSeek                 10,907 lines        ██████████████░░░░░░░░░░░   54.31 % 
-GPT                      9,177 lines         ███████████░░░░░░░░░░░░░░   45.69 % 
+DeepSeek                 10,800 lines        ██████████████░░░░░░░░░░░   57.47 % 
+GPT                      7,994 lines         ███████████░░░░░░░░░░░░░░   42.53 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 72.24% of written lines came from AI
-📚 Verbose Prompter — average 1,754 characters per prompt
+🤖 AI-Driven — 82.27% of written lines came from AI
+📚 Verbose Prompter — average 1,688 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 28.71% of changed lines were hand-edited
+🚀 High AI Trust — 19.57% of changed lines were hand-edited
 ```
 
 
- Last Updated on 12/11/2026 22:00:07 UTC
+ Last Updated on 13/11/2026 04:59:31 UTC
 <!--END_SECTION:waka-->
 
 </details>
