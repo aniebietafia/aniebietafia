@@ -137,90 +137,16 @@ I am an experienced **Software & Backend Engineer**, **Desktop & Mobile Develope
   <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C039%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C042%20hrs%2051%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-246%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-248%20hrs%2031%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51.10%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                8468 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-🌆 Daytime                27139 commits       ███████████░░░░░░░░░░░░░░   44.89 % 
-🌃 Evening                16870 commits       ███████░░░░░░░░░░░░░░░░░░   27.90 % 
-🌙 Night                  7981 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   8970 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Tuesday                  7619 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-Wednesday                8741 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Thursday                 8628 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Friday                   10156 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-Saturday                 10030 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-Sunday                   6314 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Lagos
-
-💬 Programming Languages: 
-Markdown                 7 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   28.06 % 
-Rust                     6 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
-TypeScript               6 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
-Bash                     1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-XML                      1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-
-🔥 Editors: 
-CLion                    24 hrs 1 min        ██████████████████████░░░   87.32 % 
-IntelliJ IDEA            3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-WebStorm                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-PyCharm                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-OpenCode                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-🐱‍💻 Projects: 
-KnotAfrik                20 hrs 22 mins      ███████████████████░░░░░░   74.02 % 
-elixir                   3 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-marktplatz               1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-bask                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-spoken-ui                22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-
-💻 Operating System: 
-Windows                  27 hrs 31 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 14 hrs 57 mins (54.33%)
-
-✍️ 20,274 lines written by AI, 3,894 lines written by hand (83.89% AI-written)
-
-🔤 5,219,296 Input Tokens, 1,180,116 Output Tokens
-
-💵 $332.06 Estimated AI Cost This Week
-
-🧠 20 AI Sessions, 39 AI Prompts
-
-DeepSeek                 14,628 lines        █████████████████░░░░░░░░   69.44 % 
-GPT                      6,438 lines         ████████░░░░░░░░░░░░░░░░░   30.56 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 83.89% of written lines came from AI
-📄 Detailed Prompter — average 1,497 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 18.02% of changed lines were hand-edited
-```
-
-
- Last Updated on 15/11/2026 23:23:37 UTC
+ Last Updated on 15/11/2026 23:39:53 UTC
 <!--END_SECTION:waka-->
 
 </details>
