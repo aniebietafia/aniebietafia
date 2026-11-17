@@ -137,9 +137,9 @@ I am an experienced **Software & Backend Engineer**, **Desktop & Mobile Develope
   <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C047%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C047%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-252%20hrs%2031%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-253%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -149,8 +149,8 @@ I am an experienced **Software & Backend Engineer**, **Desktop & Mobile Develope
 
 ```text
 🌞 Morning                8509 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-🌆 Daytime                27196 commits       ███████████░░░░░░░░░░░░░░   44.83 % 
-🌃 Evening                16928 commits       ███████░░░░░░░░░░░░░░░░░░   27.90 % 
+🌆 Daytime                27196 commits       ███████████░░░░░░░░░░░░░░   44.82 % 
+🌃 Evening                16929 commits       ███████░░░░░░░░░░░░░░░░░░   27.90 % 
 🌙 Night                  8038 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
 ```
 📅 **I'm Most Productive on Friday** 
@@ -159,7 +159,7 @@ I am an experienced **Software & Backend Engineer**, **Desktop & Mobile Develope
 Monday                   9004 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
 Tuesday                  7677 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
 Wednesday                8757 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Thursday                 8661 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Thursday                 8662 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
 Friday                   10188 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
 Saturday                 10046 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
 Sunday                   6338 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
@@ -172,55 +172,55 @@ Sunday                   6338 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Markdown                 8 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   34.32 % 
-TypeScript               4 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-Rust                     4 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-HTML                     2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-YAML                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Markdown                 6 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   30.19 % 
+TypeScript               4 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Rust                     3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+HTML                     2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+JavaScript               55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 
 🔥 Editors: 
-CLion                    21 hrs 52 mins      █████████████████████░░░░   84.85 % 
-IntelliJ IDEA            1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-Opencode Cli             1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-WebStorm                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+CLion                    19 hrs 5 mins       █████████████████████░░░░   84.25 % 
+Opencode Cli             1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+WebStorm                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+IntelliJ IDEA            54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+PyCharm                  40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 
 🐱‍💻 Projects: 
-KnotAfrik                22 hrs 3 mins       █████████████████████░░░░   85.54 % 
-marktplatz               1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-spoken-ui                1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-bask                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-kainos                   30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+KnotAfrik                19 hrs 14 mins      █████████████████████░░░░   84.89 % 
+spoken-ui                1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+spoken-api               50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+bask                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+kainos                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 💻 Operating System: 
-Windows                  25 hrs 46 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 14 mins (51.34%)
+⏱ AI Coding Time: 12 hrs 40 mins (55.97%)
 
-✍️ 13,998 lines written by AI, 4,194 lines written by hand (76.95% AI-written)
+✍️ 10,160 lines written by AI, 1,710 lines written by hand (85.59% AI-written)
 
-🔤 4,565,418 Input Tokens, 915,274 Output Tokens
+🔤 4,432,936 Input Tokens, 836,186 Output Tokens
 
-💵 $326.41 Estimated AI Cost This Week
+💵 $301.44 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 32 AI Prompts
+🧠 13 AI Sessions, 26 AI Prompts
 
-DeepSeek                 11,328 lines        ████████████████████░░░░░   80.57 % 
-GPT                      2,732 lines         █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+DeepSeek                 7,490 lines         ██████████████████░░░░░░░   73.27 % 
+GPT                      2,732 lines         ███████░░░░░░░░░░░░░░░░░░   26.73 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 76.95% of written lines came from AI
-📚 Verbose Prompter — average 1,637 characters per prompt
+🤖 AI-Driven — 85.59% of written lines came from AI
+📚 Verbose Prompter — average 2,078 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 27.0% of changed lines were hand-edited
+🚀 High AI Trust — 18.49% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/11/2026 23:20:10 UTC
+ Last Updated on 17/11/2026 23:37:04 UTC
 <!--END_SECTION:waka-->
 
 </details>
