@@ -150,7 +150,7 @@ I am an experienced **Software & Backend Engineer**, **Desktop & Mobile Develope
 ```text
 🌞 Morning                8522 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
 🌆 Daytime                27214 commits       ███████████░░░░░░░░░░░░░░   44.81 % 
-🌃 Evening                16949 commits       ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+🌃 Evening                16950 commits       ███████░░░░░░░░░░░░░░░░░░   27.91 % 
 🌙 Night                  8052 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
 ```
 📅 **I'm Most Productive on Friday** 
@@ -159,10 +159,10 @@ I am an experienced **Software & Backend Engineer**, **Desktop & Mobile Develope
 Monday                   9012 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
 Tuesday                  7695 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
 Wednesday                8763 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Thursday                 8677 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Thursday                 8678 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 Friday                   10196 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
 Saturday                 10050 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
-Sunday                   6344 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+Sunday                   6344 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
 ```
 
 
@@ -172,54 +172,54 @@ Sunday                   6344 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Markdown                 5 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   30.98 % 
-Rust                     3 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
-TypeScript               1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-HTML                     1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-JavaScript               53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Markdown                 6 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   31.44 % 
+Rust                     5 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   28.28 % 
+HTML                     1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+TypeScript               1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Bash                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
 
 🔥 Editors: 
-CLion                    15 hrs 11 mins      █████████████████████░░░░   85.11 % 
-Opencode Cli             1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-WebStorm                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-PyCharm                  40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+CLion                    18 hrs 13 mins      ██████████████████████░░░   87.36 % 
+Opencode Cli             1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+WebStorm                 54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+PyCharm                  40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 OpenCode                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-KnotAfrik                15 hrs 25 mins      ██████████████████████░░░   86.42 % 
-spoken-ui                1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-spoken-api               50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-kainos                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+KnotAfrik                18 hrs 27 mins      ██████████████████████░░░   88.49 % 
+spoken-ui                1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+spoken-api               50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+kainos                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 
 💻 Operating System: 
-Windows                  17 hrs 51 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 35 mins (64.93%)
+⏱ AI Coding Time: 14 hrs 20 mins (68.77%)
 
-✍️ 8,460 lines written by AI, 676 lines written by hand (92.6% AI-written)
+✍️ 9,339 lines written by AI, 675 lines written by hand (93.26% AI-written)
 
-🔤 4,138,406 Input Tokens, 755,116 Output Tokens
+🔤 5,420,785 Input Tokens, 931,691 Output Tokens
 
-💵 $291.57 Estimated AI Cost This Week
+💵 $408.77 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 25 AI Prompts
+🧠 17 AI Sessions, 39 AI Prompts
 
-DeepSeek                 6,059 lines         ██████████████████░░░░░░░   71.10 % 
-GPT                      2,463 lines         ███████░░░░░░░░░░░░░░░░░░   28.90 % 
+DeepSeek                 6,882 lines         ██████████████████░░░░░░░   72.74 % 
+GPT                      2,579 lines         ███████░░░░░░░░░░░░░░░░░░   27.26 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.6% of written lines came from AI
-📚 Verbose Prompter — average 2,594 characters per prompt
+🤖 AI-Driven — 93.26% of written lines came from AI
+📚 Verbose Prompter — average 2,103 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 12.37% of changed lines were hand-edited
+🚀 High AI Trust — 11.26% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/11/2026 23:31:14 UTC
+ Last Updated on 19/11/2026 23:47:46 UTC
 <!--END_SECTION:waka-->
 
 </details>
