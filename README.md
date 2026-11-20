@@ -137,9 +137,9 @@ I am an experienced **Software & Backend Engineer**, **Desktop & Mobile Develope
   <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C052%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C053%20hrs%2041%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-256%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-257%20hrs%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -149,8 +149,8 @@ I am an experienced **Software & Backend Engineer**, **Desktop & Mobile Develope
 
 ```text
 🌞 Morning                7337 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-🌆 Daytime                25507 commits       ███████████░░░░░░░░░░░░░░   44.20 % 
-🌃 Evening                16806 commits       ███████░░░░░░░░░░░░░░░░░░   29.13 % 
+🌆 Daytime                25507 commits       ███████████░░░░░░░░░░░░░░   44.21 % 
+🌃 Evening                16805 commits       ███████░░░░░░░░░░░░░░░░░░   29.12 % 
 🌙 Night                  8052 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
 ```
 📅 **I'm Most Productive on Saturday** 
@@ -159,7 +159,7 @@ I am an experienced **Software & Backend Engineer**, **Desktop & Mobile Develope
 Monday                   8578 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
 Tuesday                  7239 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
 Wednesday                8307 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Thursday                 8182 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Thursday                 8181 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
 Friday                   9620 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 Saturday                 9853 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
 Sunday                   5923 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
@@ -172,54 +172,55 @@ Sunday                   5923 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Markdown                 6 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   31.44 % 
-Rust                     5 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   28.28 % 
-HTML                     1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-TypeScript               1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-Bash                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+Markdown                 5 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   31.16 % 
+Rust                     5 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   30.86 % 
+HTML                     1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+TypeScript               1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+JavaScript               53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
 
 🔥 Editors: 
-CLion                    18 hrs 13 mins      ██████████████████████░░░   87.36 % 
-Opencode Cli             1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-WebStorm                 54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-PyCharm                  40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-OpenCode                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+CLion                    15 hrs 36 mins      ██████████████████████░░░   86.11 % 
+Opencode Cli             1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+WebStorm                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+PyCharm                  40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🐱‍💻 Projects: 
-KnotAfrik                18 hrs 27 mins      ██████████████████████░░░   88.49 % 
-spoken-ui                1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-spoken-api               50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-kainos                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+KnotAfrik                15 hrs 58 mins      ██████████████████████░░░   88.15 % 
+spoken-api               50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+spoken-ui                41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+kainos                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+tuch.tv                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 💻 Operating System: 
-Windows                  20 hrs 51 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 20 mins (68.77%)
+⏱ AI Coding Time: 13 hrs 33 mins (74.75%)
 
-✍️ 9,339 lines written by AI, 675 lines written by hand (93.26% AI-written)
+✍️ 8,514 lines written by AI, 649 lines written by hand (92.92% AI-written)
 
-🔤 5,420,785 Input Tokens, 931,691 Output Tokens
+🔤 5,437,418 Input Tokens, 855,595 Output Tokens
 
-💵 $408.77 Estimated AI Cost This Week
+💵 $387.48 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 39 AI Prompts
+🧠 16 AI Sessions, 32 AI Prompts
 
-DeepSeek                 6,882 lines         ██████████████████░░░░░░░   72.74 % 
-GPT                      2,579 lines         ███████░░░░░░░░░░░░░░░░░░   27.26 % 
+DeepSeek                 6,089 lines         ██████████████████░░░░░░░   70.25 % 
+GPT                      2,579 lines         ███████░░░░░░░░░░░░░░░░░░   29.75 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.26% of written lines came from AI
-📚 Verbose Prompter — average 2,103 characters per prompt
+🤖 AI-Driven — 92.92% of written lines came from AI
+📚 Verbose Prompter — average 2,367 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 11.26% of changed lines were hand-edited
+🚀 High AI Trust — 12.34% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/11/2026 23:24:04 UTC
+ Last Updated on 20/11/2026 23:40:40 UTC
 <!--END_SECTION:waka-->
 
 </details>
