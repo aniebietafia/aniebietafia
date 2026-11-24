@@ -137,90 +137,16 @@ I am an experienced **Software & Backend Engineer**, **Desktop & Mobile Develope
   <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C059%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C063%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-261%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-263%20hrs%2026%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-54.21%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                7391 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-🌆 Daytime                25647 commits       ███████████░░░░░░░░░░░░░░   44.19 % 
-🌃 Evening                16886 commits       ███████░░░░░░░░░░░░░░░░░░   29.09 % 
-🌙 Night                  8116 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   8626 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Tuesday                  7285 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-Wednesday                8338 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Thursday                 8227 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Friday                   9689 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-Saturday                 9911 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-Sunday                   5964 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Lagos
-
-💬 Programming Languages: 
-Rust                     4 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   35.89 % 
-Markdown                 3 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   28.77 % 
-TypeScript               1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-Vue                      48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-Other                    46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-
-🔥 Editors: 
-CLion                    8 hrs 18 mins       █████████████████░░░░░░░░   68.13 % 
-VS Code                  1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-PyCharm                  1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-Opencode Cli             48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-OpenCode                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-
-🐱‍💻 Projects: 
-KnotAfrik                8 hrs 23 mins       █████████████████░░░░░░░░   68.73 % 
-aniebietafia             2 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
-spoken-api               1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-tuch.tv                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-spoken-ui                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-💻 Operating System: 
-Windows                  12 hrs 12 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 8 hrs 49 mins (72.34%)
-
-✍️ 13,741 lines written by AI, 112 lines written by hand (99.19% AI-written)
-
-🔤 5,082,955 Input Tokens, 877,049 Output Tokens
-
-💵 $413.05 Estimated AI Cost This Week
-
-🧠 19 AI Sessions, 36 AI Prompts
-
-DeepSeek                 13,774 lines        █████████████████████████   99.16 % 
-GPT                      116 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.19% of written lines came from AI
-📄 Detailed Prompter — average 1,034 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 1.2% of changed lines were hand-edited
-```
-
-
- Last Updated on 24/11/2026 23:29:03 UTC
+ Last Updated on 24/11/2026 23:46:21 UTC
 <!--END_SECTION:waka-->
 
 </details>
